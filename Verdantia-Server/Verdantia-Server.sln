@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Verdantia-Server", "Verdantia-Server.csproj", "{AFD794EF-625B-4B20-A9DE-61BA09BC2F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD794EF-625B-4B20-A9DE-61BA09BC2F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD794EF-625B-4B20-A9DE-61BA09BC2F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD794EF-625B-4B20-A9DE-61BA09BC2F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD794EF-625B-4B20-A9DE-61BA09BC2F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0742A33-1619-4134-B949-967C3A59AA0E}
+	EndGlobalSection
+EndGlobal
